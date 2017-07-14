@@ -1,0 +1,59 @@
+select
+{
+ margin:5px;
+ padding:5px;
+}
+td
+{
+ width:50px;
+ height:50px;
+ text-align:center;
+ cursor:default;
+}
+td:hover
+{
+ background:yellow;
+}
+.grey
+{
+ background:rgb(180,180,180);
+}
+.fig_button
+{
+ margin:5px;
+}
+.status_item
+{
+ text-align:left;
+ width:320px; 
+ border: 1px solid white;
+ padding:5px;
+}
+.status_item:hover
+{
+ background:rgb(200,200,200);
+ color:red;
+ border-radius:5px;
+ cursor:pointer;  
+ font-weight:bold;
+}
+#store_type
+{
+ margin-bottom:20px;
+}
+#button_block
+{
+ margin-top:10px;
+}
+#board
+{
+margin:auto;
+}
+#status
+{
+ font-size:18px;
+}
+.container
+{
+ margin-top:10px;
+}
