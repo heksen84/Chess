@@ -1,1 +1,1 @@
-"# Chess" 
+An example of work with Redis
